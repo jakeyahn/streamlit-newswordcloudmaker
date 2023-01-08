@@ -1,0 +1,9 @@
+requests
+BeautifulSoup4
+bs4
+matplotlib
+konlpy
+wordcloud
+nltk
+streamlit
+pip install --upgrade protobuf  
