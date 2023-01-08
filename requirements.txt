@@ -7,3 +7,4 @@ wordcloud
 nltk
 streamlit
 protobuf==4.21.12
+jpype1==0.7.0
