@@ -6,4 +6,4 @@ konlpy
 wordcloud
 nltk
 streamlit
-pip install --upgrade protobuf  
+protobuf==4.21.12
